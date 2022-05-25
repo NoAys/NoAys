@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
  <h3> 📚 Studying </h3>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white&style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 
