@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="mailto:solluna9@semyung.ac.kr"> <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- </a> <a> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) </a>
+ </a> 
 
 
 
  <h3> 📚 Studying </h3>
-
+<a> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white style="height : auto; margin-left : 10px; margin-right : 10px;)
 
 
 
