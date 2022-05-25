@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
  <h3> 📚 Studying </h3>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white&style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<a href="https://byul91oh.tistory.com/">    <img         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
 
