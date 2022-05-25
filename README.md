@@ -1,4 +1,4 @@
-### 👋 Hi there I'm NoA
+### 👋 Hi there I'm NoAys
 
 <!--
 **NoAys/NoAys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
