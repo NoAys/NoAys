@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 <hr>
 
 ![NoAys GitHub stats](https://github-readme-stats.vercel.app/api?username=NoAys&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoAys&layout=demo&theme=radical)
 
