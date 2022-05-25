@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 
 ### 📚 Studying
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=java&logoColor=white)
+       ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-the-badge&logo=c&logoColor=white)
+       ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-the-badge&logo=c%2B%2B&logoColor=white)
+       ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=java&logoColor=white)
 
 
 <h3> 💻 Contents </h3>         
-<a href="mailto:solluna9@semyung.ac.kr"> <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+     <a href="mailto:solluna9@semyung.ac.kr"> <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a> 
  
 <hr>
