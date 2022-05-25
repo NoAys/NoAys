@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=java&logoColor=white)
 
 
-<h3> 💻 Contents </h3> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoAys&theme=radical&show_icons=true)        
+<h3> 💻 Contents </h3>         
 <a href="mailto:solluna9@semyung.ac.kr"> <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a> 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoAys&theme=radical&show_icons=true)
 
