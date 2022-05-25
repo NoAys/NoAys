@@ -1,4 +1,4 @@
-## 👋 Hi there I'm NoA
+### 👋 Hi there I'm NoA
 
 <!--
 **NoAys/NoAys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</a> <a href="mailto:solluna9@semyung.ac.kr">    <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="mailto:solluna9@semyung.ac.kr">    <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
 
