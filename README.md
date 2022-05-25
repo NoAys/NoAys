@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://byul91oh.tistory.com/">    <img         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+</a> <a href="mailto:solluna9@semyung.ac.kr">    <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
 
 
  <h3> 📚 Studying </h3>
