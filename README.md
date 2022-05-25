@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <hr>
 
 ![NoAys GitHub stats](https://github-readme-stats.vercel.app/api?username=NoAys&theme=radical&show_icons=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoAys&layout=demo&theme=radical)
+<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=NoAys)](https://solved.ac/NoAys)
 
