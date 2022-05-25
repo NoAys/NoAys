@@ -1,4 +1,4 @@
-### 👋 Hi there I'm NoAys
+### 👋 Hi there My name is Yesoung, A Student at Semyung University
 
 <!--
 **NoAys/NoAys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
