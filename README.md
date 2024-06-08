@@ -27,12 +27,7 @@ Here are some ideas to get you started:
 ### 📚 Studying
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-the-badge&logo=HTML5&logoColor=white)
-
-<br><br>
-<h3> 💻 Contents </h3>         
-     <a href="mailto:solluna9@semyung.ac.kr"> <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solluna9@semyung.ac.kr"        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
- </a> 
+![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-the-badge&logo=HTML5&logoColor=white) 
  
 <hr>
 
